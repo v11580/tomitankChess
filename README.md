@@ -7,7 +7,7 @@ tomitankChess is Hungarian (pure) JavaScript Chess Engine
 
 Web Deployment:
 -----------------------------
-   -  chesscalisthenics.com/T.html
+   -  https://chesscalisthenics.com/T.html
 
 
 Usage:
