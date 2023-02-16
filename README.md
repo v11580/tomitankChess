@@ -5,6 +5,11 @@ tomitankChess is Hungarian (pure) JavaScript Chess Engine
 - Pure JavaScript ~5X slower than "C" language, and ~2.5 slower than Emscripten JavaScript.
 - The Engine is running in your browser and with UCI GUI (eg: Arena) as well.
 
+Web Deployment:
+-----------------------------
+   -  chesscalisthenics.com/T.html
+
+
 Usage:
 -----------------------------
 - tomitankChess (with node.js) run in Arena, in WinBoard and in Cutechess as well.
